@@ -4,8 +4,9 @@
 - 📫 How to reach me :- https://www.linkedin.com/in/subhadip-gayen-04298224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
-  🚀🚀 
-
+  🚀🚀
+## HacktoberFestXHolopin 2025 Badges 🪶  
+[![An image of @subhadipgayen2006's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhadipgayen2006)](https://holopin.io/@subhadipgayen2006)
 
 
 ## GSSOC(24) Badges 🪶
